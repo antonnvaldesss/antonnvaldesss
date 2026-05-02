@@ -9,6 +9,7 @@
 <p align="center">My favorite energy drink brand is probably Monster. Favorite flavors: Pipeline Punch (Monster) and Fruit Punch (Score). I also like seasonal RedBulls.</p>
 <p align="center">My favorite videogame is Catherine. Games I enjoy: Danganronpa, Ace Attorney, Bayonetta, Puyo Puyo, The Binding of Isaac, Mewgenics. Used to play Yu-Gi-Oh! Mater Duel (Labrynth enjoyer).</p>
 <p align="center">I have a small anime figure collection I wish to expand.</p>
+<p align="center">I get too focused on things... sometimes.</p>
 
 <h1>Programming stuff ₊˚⊹ᰔ</h1>
 <p align="center">
