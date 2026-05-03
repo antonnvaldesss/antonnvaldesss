@@ -8,7 +8,12 @@
 
 <h1>About me ₊˚⊹ᰔ</h1>
 
-<p align="center">I like Monogatari Series, RanguGamer, energy drinks and drawing from time to time.</p>
+<h4 align="center">Native Spanish | B2 English</h4>
+<h4 align="center">Student at Pontificia Universidad Católica de Chile</h4>
+
+<p align="center">｡ ₊°༺❤︎༻°₊ ｡</p>
+
+<p align="center">I like Monogatari Series, Japanese music, RanguGamer, energy drinks and drawing from time to time.</p>
 <p align="center">I'm not sure about my favorite Monogatari girl, but I like Shinobu, Senjogahara, Kanbaru and Ononoki.</p>
 <p align="center">My favorite energy drink brand is probably Monster. Favorite flavors: Pipeline Punch (Monster) and Fruit Punch (Score). I also like seasonal RedBulls.</p>
 <p align="center">My favorite videogame is Catherine. Games I enjoy: Danganronpa, Ace Attorney, Bayonetta, Puyo Puyo, The Binding of Isaac, Mewgenics. Used to play Yu-Gi-Oh! Mater Duel (Labrynth enjoyer).</p>
